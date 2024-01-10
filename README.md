@@ -12,7 +12,6 @@ and contribute to the design and development of every single pieces of the proje
 
 I'm currently working as a **Freelance** developer, so if you are looking for someone to help you with your project, or even if you just want to discuss, feel free to reach me:
 - ✉️ [Email](mailto:kevin.dpdt@gmail.com)
-- 📞 [Phone](tel:+33781581174)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevin-depuydt/)
 - 🍀 [Malt](https://www.malt.fr/profile/kevindepuydt)
 - 🌍 [Website](https://kevindepuydt.fr/)
