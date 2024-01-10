@@ -13,8 +13,6 @@ Today the perfect job for me is the one that allow me to work on both sides of a
 and contribute to the design and development of every single pieces of the project.
 -->
 
-I'm currently working as a **Freelance** developer, so if you are looking for someone to help you with your project, or even if you just want to chat, feel free to reach me:
-- ✉️ [Email](mailto:kevin.dpdt@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/kevin-depuydt/)
-- 🍀 [Malt](https://www.malt.fr/profile/kevindepuydt)
-- 🌍 [Website](https://kevindepuydt.fr/)
+I'm currently working as a **Freelance** developer from France 🇫🇷. 
+Feel free to reach me from links in my profile if you are looking for someone 
+to help you with your project, or if you just want to chat 😄
